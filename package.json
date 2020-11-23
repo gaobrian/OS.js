@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@osjs/calculator-application": "^1.2.8",
-    "@osjs/cli": "^3.0.24",
+    "@osjs/cli": "^3.0.25",
     "@osjs/client": "^3.1.33",
     "@osjs/dialogs": "^3.0.19",
     "@osjs/draw-application": "^1.2.7",
